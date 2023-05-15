@@ -1,6 +1,6 @@
 ---
-name: Custom issue teUser storymplate
-about: THis template is for creating user story
+name: User Story
+about: This template is for creating user story
 title: ''
 labels: ''
 assignees: ''
